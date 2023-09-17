@@ -3,4 +3,4 @@ layout: default
 title: Home
 ---
 # This is a test
-# This is another test
+Testing to see if switching Index to MD works

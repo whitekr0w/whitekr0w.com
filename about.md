@@ -3,20 +3,44 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+# whoami
+Over the years I have done a number of projects, competitions, and certifications that have all helped grow my cybersecurity knowledge and lead me down the path that I am today. Quite frankly, it all started with a laptop and a foosball table when I was a teenager. Our family got a used foosball table from some sale, and it didn't have a key to retrieve the foosballs, so being a curious teen, I researched how to lockpick on my trust Windows Vista laptop running IE. Eventually, I got a grasp of lockpicking, and managed to open the lock to the foosball table. I was hooked from there. But, I didn't really want to do lockpicking for a living -- yet the idea of breaking into things absolutely *fascinated* me. Fast forward to the end my high school year, I joined a nearby skill center during my senior year, and found potential in my skills in computers and cybersecurity. I started out doing [AFA CyberPatriot](https://www.uscyberpatriot.org/) competitions, and did fairly well for a first-timer, and from there I was hooked on cybersecurity. I then moved on to a different competition through the [Business Professionals of America](https://bpa.org/) where I entered a computer animation competition (I didn't do well there) and a computer security competition, where I excelled at -- eventually making my way to the national competition. From there, I realized cybersecurity was the career path that I had been searching for during my high school life, and started to really pursue it. In the midst of it all though, I learned about a career path that intrigued me the most, and tied everything back together to that foosball table that I picked. There was a career in cybersecurity called penetration testing, where you get **paid to break into things**. 
 
-Celeste is a lightweight Jekyll theme that features a minimalist, content-first design. It places your content center stage and lets your readers view them in a clutter-free environment without visual distractions. It is based on [Poole](https://github.com/poole/poole), the Jekyll butler, by [@mdo](https://twitter.com/mdo).
+Oh man. I was hooked from there.
 
-In addition to using Poole as its foundation, Celeste is also built using the following open-source projects:
+So that's what I've been working towards from then on. I have always had a knack for computers, and a natural curiosity for how things work, so what better way could there be to embrace those qualities? Becoming a penetration tester has been my goal since then, and I have been taking every step and stride that I can to get closer to that goal. I realize how competitive this field is, and honestly, that drives me all the more. I might not have the knowledge now, I might not be a prodigy, but if there's one thing I've learned from embracing the hacker culture, it's this:
+Curiosity is the best burning fuel for learning. 
 
-* [normalize.css](http://necolas.github.io/normalize.css/), a modern, HTML5-ready alternative to CSS resets.
-* [Font Awesome](https://fontawesome.com/v4.7.0/), the iconic font and CSS toolkit.
-* [Hover.css](http://ianlunn.github.io/Hover/), a collection of CSS3 powered hover effects.
+## Projects
+- WWH 2021 CTF Developer
+- GLSC 2021 CTF Developer
+- Overflow to Fall CTF Developer
 
-Celeste is <i class="fa fa-code"></i> with <i class="fa fa-heart"></i> by [@nicoelayda](https://github.com/nicoelayda). Learn more and contribute on [GitHub](https://github.com/nicoelayda/celeste).
+## Achievements
+- 10th place in 2019 National [BPA](https://bpa.org/) Competition in Computer Security
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/nicoelayda/celeste/issues/new) or [ask me on Twitter](https://twitter.com/nicoelayda).
+## Certifications
+- MTA Security Fundamentals
+- MTA Windows Operating System Fundamentals
+- TestOut Security Pro
+- TestOut Ethical Hacking Pro
 
-Thanks for reading!
+# CTFs
+| Competition Name           | Handle               | Rank       |
+|:-------------------------- |:-------------------- |:---------- |
+| NGA CTF                    | {default}            | 4 / 312    |
+| NCL Fall 2019 Individual   | {default}            | 164 / 4149 |
+| NCL Fall 2019 Team         | RedTeam @ MTU        | 8 / 689    |
+| NCL Spring 2020 Individual | {default}            | 95 / 5357  |
+| NCL Spring 2020 Team       | RedTeam @MTU         | 16 / 925   |
+| Cybar OSINT CTF            | RedTeam @MTU         | 13 / ???   |
+| rgbCTF 2020                | RedTeam @MTU         | 174 / 1047 |
+| BsidesBOS CTF              | RedTeam @MTU         | 150 / 1008 |
+| NCL Fall 2020 Individual   | {default}            | 80 / 6013  |
+| NCL Fall 2020 Team         | RedTeam @MTU         | 22 / 957   |
+| NCL Spring 2021 Individual | {default}            | 104 / 4180 |
+| NCL Spring 2021 Team       | RedTeam @ MTU        | 3 / 922    |
+| NCL Fall 2021 Individual   | {default}            | 56 / 6480  |
+| NCL Fall 2021 Team         | Delta College \[MI\]   | 99 / 3910  |
+| NCL Spring 2021 Team       | Delta College        | 51  / 3658 |
+| CyberSEED 2022             | CyberSNEED           | 5 / 119    |

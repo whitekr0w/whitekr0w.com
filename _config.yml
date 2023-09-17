@@ -19,9 +19,9 @@ sass:
   style:             :compressed
 
 author:
-  name:              Nico Elayda
-  url:               nicoelayda.github.io
-  email:             nico@elayda.com
+  name:              Shane H
+  url:               whitekr0w.github.io
+  email:             contact@whitekr0w.com
 
 plugins:
   - jekyll-coffeescript
