@@ -1,6 +1,6 @@
-title:               Celeste
-url:                 https://nicoelayda.github.io
-baseurl:             ""
+title:               whitekr0w's Blog
+url:                 "https://whitekr0w.com"
+baseurl:             "https://whitekr0w.com"
 
 markdown:            kramdown
 highlighter:         rouge
@@ -19,9 +19,9 @@ sass:
   style:             :compressed
 
 author:
-  name:              Shane H
-  url:               whitekr0w.github.io
-  email:             contact@whitekr0w.com
+  name:              ''
+  url:               ''
+  email:             ''
 
 plugins:
   - jekyll-coffeescript
