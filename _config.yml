@@ -1,6 +1,6 @@
 title:               whitekr0w's Blog
-url:                 "https://whitekr0w.com"
-baseurl:             "https://whitekr0w.com"
+url:                 ""
+baseurl:             ""
 
 markdown:            kramdown
 highlighter:         rouge

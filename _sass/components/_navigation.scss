@@ -31,14 +31,13 @@
   }
 
   li.logo a {
-    color: $nav-icon-color;
+    color: $nav-bottom-border-color;
     background: $nav-icon-background-color;
     font-weight: bold;
-    width: 1.6em;
-    height: 1.6em;
+    width: 2em;
+    height: 2em;
     border-radius: 50px;
-    line-height: 1.6em;
-    margin: 0 1rem;
+    margin: -0.75em 1rem;
     padding: 0;
   }
 }
