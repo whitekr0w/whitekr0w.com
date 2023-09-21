@@ -12,7 +12,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
+  text-transform: uppercase;
+  text-align: center;
   font-size: 2rem;
+  padding-bottom: 1rem;
   border-bottom: 1px solid #000000;
 }
 
@@ -22,12 +25,12 @@ h2 {
 }
 
 h3 {
-  margin-top: 1.5rem;
+  margin-top: 0.75rem;
   font-size: 1.25rem;
 }
 
 h4, h5, h6 {
-  margin-top: 1rem;
+  margin-top: 0.5rem;
   font-size: 1rem;
 }
 
