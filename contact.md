@@ -2,7 +2,7 @@
 layout: default
 title: Notes
 ---
-# Contact
+# CONTACT
 The bulk of my contacts can be found at the footer of every page. But just in case you want to be sure, here's a whole dedicated page to every place that I can be found.
 
 ## Email
