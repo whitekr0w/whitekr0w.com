@@ -7,7 +7,7 @@
     <nav class="nav-main">
       <ul>
         <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/about/">About</a></li>
-        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/blog/">Blog</a></li>
+        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/archive/">Archive</a></li>
         <li class="logo"><a class="hvr-ripple-out" href="{{ site.baseurl }}/"><img src="/favicon.png" ></img ></a></li>
         <li class="hvr-underline-reveal"><a href="https://playbook.whitekr0w.com">Playbook</a></li>
         <li class="hvr-underline-reveal"><a href="https://shanehoppe.com">Weblog</a></li>
@@ -15,6 +15,12 @@
       </ul>
     </nav>
     <div class="container content">
+
+      {% if page.layout != "post" %}
+      <h1 class=title>
+        {{ page.title }}
+      </h1>
+      {% endif %}
       <main>
         {{ content }}
       </main>

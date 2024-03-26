@@ -2,9 +2,7 @@
 layout: default
 title: About
 ---
-
-# About
-## My Story
+# My Story
 
 Over the years I have done a number of projects, competitions, and certifications that have all helped grow my cybersecurity knowledge and lead me down the path that I am today. But if I had to pick a point where everything kickstarted it would be when I got my first laptop around thirteen years old, and when my father got a foosball table. That foosball table came used from some sale, and as a consquence for its price, it didn't come with a key to retrieve the foosballs. So, being a curious teen, I researched how to lockpick on my trusty Windows Vista laptop running Internet Explorer. Eventually, I got a vague grasp of lockpicking, and managed to open the lock to the foosball table with a paper clip. This kindled a deep curiousity within me, but I didn't really want to do lockpicking for a living -- yet the idea of breaking into things struck fascinated me. 
 
@@ -16,14 +14,14 @@ So that's what I've been working towards from that moment onward. I've always ha
 
 Curiosity is the best burning fuel for learning.
 
-## Career Development
-### Public Projects
+# Career Development
+## Public Projects
 - [whitekr0w's Pentesting Notes](https://notes.whitekr0w.com)
 - Winter Wonderhack 2021 CTF Developer
 - [Great Lakes Security Conference](https://ctftime.org/event/1341/) 2021 CTF Developer
 - [Overflow to Fall](https://ctftime.org/event/1465/) CTF Developer
 
-### Personal Projects
+## Personal Projects
 - HASSIO configuration and management
 - Deployement of public and private containerized applications
 - pfSense firewall deployment and policy management (DNS, DHCP, SSL, VPN)
@@ -31,16 +29,16 @@ Curiosity is the best burning fuel for learning.
 - XEN-NG, Proxmox, Hyper-V, and ESXi virtualized labs
 - Hand-built Unraid NAS
 
-### Achievements
+## Achievements
 - 10th place in 2019 National [BPA](https://bpa.org/) Competition in Computer Security
 
-### Certifications
+## Certifications
 - TestOut Security Pro
 - TestOut Ethical Hacking Pro
 - MTA Security Fundamentals
 - MTA Windows Operating System Fundamentals
 
-### Competitions
+## Competitions
 
 | Competition Name           | Handle               | Rank       |
 | -------------------------- | -------------------- | ---------- |
