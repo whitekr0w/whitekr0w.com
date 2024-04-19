@@ -33,8 +33,7 @@ The last stop for me was Remotely Save, which offered almost everything I neede
 
 I ended up opting for WebDAV, but I ran into one problem. Every WebDAV container I threw at this plugin for setting up seemed to error out. According to some Github issues regarding WebDAV and this plugin, there might have been an issue with CORS being properly implemented in other containers. This plugin was originally tested using [WsgiDAV](https://github.com/mar10/wsgidav), which had CORS set up by default. So, I decided to construct my own Docker container using it.
 
-The solution to my problem
-
+# The solution to my problem
 So, because I couldn't find any WebDAV containers to deploy that worked at the time, I got fed up enough to make my own Docker image and publish it to Github.
 
 ```dockerfile
